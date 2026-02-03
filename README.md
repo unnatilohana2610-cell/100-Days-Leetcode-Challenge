@@ -20,7 +20,7 @@ and build consistency using **C++**.
 ## 📅 Progress Tracker
 
 Day1   Best Time to Buy and Sell Stock 
-Day2
+Day2  Contains Duplicates
 
 ## 📂 Repository Structure
 Each day contains:
