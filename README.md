@@ -19,9 +19,11 @@ and build consistency using **C++**.
 
 ## 📅 Progress Tracker
 
-Day1   Best Time to Buy and Sell Stock 
-Day2  Contains Duplicates
+- Day1   Best Time to Buy and Sell Stock 
+- Day2  Contains Duplicates
+- Day3 Maximum Subarrays
 
+  
 ## 📂 Repository Structure
 Each day contains:
 - `problem.md` → problem description & approach
